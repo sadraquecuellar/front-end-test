@@ -31,7 +31,7 @@ São itens não obrigatórios, mas serão considerados diferenciais.
 + Angular
 + Angular Material
 + Firebase
-+ Versão em produção (azure, gcp, heroku, aws entre outros possuem alguma forma de hospedagem gratuida limitade)
++ Versão em produção (azure, gcp, heroku, aws entre outros possuem alguma forma de hospedagem gratuita)
 + Test
 + Usuário Admin (vizualisar usuários, bloquear usuário, excluir usuário)
 
